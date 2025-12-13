@@ -4,7 +4,6 @@ import hello.core.member.Member;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.shadow.de.siegmar.fastcsv.util.Nullable;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.stereotype.Component;
